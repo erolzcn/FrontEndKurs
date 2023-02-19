@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Erol Ozcan</h1>
-<h3 align="center">tiktakkirala.com web sitesi için taslak analizi çalışması</h3>
+<h2 align="center">örnek web sitesi için taslak analizi çalışması</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h4 align="left">FrontEnd geliştirme kursu ödev çalışması</h4>
+<hr> </hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<h4 align="left">tiktakkirala.com web sitesinin Html kodları ile iskelet yapısının örneklenmesi çalışması.</h4>
+
 
