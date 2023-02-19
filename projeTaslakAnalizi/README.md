@@ -3,6 +3,6 @@
 <h4 align="left">FrontEnd geliştirme kursu ödev çalışması</h4>
 <hr> </hr>
 
-<h4 align="left">tiktakkirala.com web sitesinin Html kodları ile iskelet yapısının örneklenmesi çalışması.</h4>
+<h4 align="left">tiktakkirala.com web sitesinin Html kodları ile iskelet yapısının örneklenmesi amaçlanmıştır.</h4>
 
 
